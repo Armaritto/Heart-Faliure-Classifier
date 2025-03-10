@@ -169,3 +169,16 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# pip cache
+pip-cache/
+
+# Idea project files
+.idea/ 
+
+# Vscode
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
